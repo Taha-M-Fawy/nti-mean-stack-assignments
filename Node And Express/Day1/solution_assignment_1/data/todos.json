@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Task 1: Setup project (Finished)",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "title": "Task 2: Build CLI logic",
+    "status": "in progress"
+  },
+  {
+    "id": 3,
+    "title": "Task 3: Test edge cases",
+    "status": "to-do"
+  }
+]
